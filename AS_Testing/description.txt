@@ -1,0 +1,5 @@
+Transmit and receive characters: 
+• Initialize UART for 9600 baud, 1 stop, no parity 
+• Loop:◦Transmit string, then a prompt character on new line
+	◦When character is received, echo it back 
+
